@@ -278,7 +278,7 @@ int main() {
     //Calculo de médias. Divisão das Alturas por Amostras.
     mediaBst = bstAlturas / A;
     mediaAvl = avlAlturas / A;
-    mediaGeral = (mediaBst + mediaAvl)/2 * A;
+    mediaGeral = (bstAlturas + avlAlturas)/(2*A);
 
     
     /*DADOS DO EXERCICIO:
