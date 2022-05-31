@@ -1,8 +1,3 @@
-> _There is unrest in the forest.
-> There is trouble with the trees,
-> for the Maples want more sunlight
-> and the Oaks ignore their pleas..._
-
 ## NasAlturas
   tive muita dificuldade para estruturar o programa e saber de fato as funções necessárias para o funcionamento dele. ainda estão com alguns erros, pois foi basicamente a primeira vez que "implementei" uma arvore, e pela metade uma vez que ~~peguei~~ foi disponibilizado o template pelo professor.
 	
